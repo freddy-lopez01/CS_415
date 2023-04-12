@@ -1,0 +1,4 @@
+CS 415 Project 0
+Author: Freddy Lopez
+
+Report: The state of P0 as of 11:34pm on 04/16/23 is not great. I have fleshed out the majority of the methods regarding the Hashmap implementation but as I was working through this, I realized my overall understanding of the concept was less than than I had orginallly thought. The code compiles but produces an error randomly every do often that the hashFxn and cmpFxn cannot be found and I am not sure as to why that is. This project does not come close to my best work or attempt at any project I have done. I apologize for the sad state of this project but I have read chapter 12 in the book regarding hashmaps and am starting to get a better understanding on how they work but not enough to where I could complete this project on my own without guidance. I will continue to work on this project post-due date in order to increase my understanding of hashmaps and how they are created and used. 
